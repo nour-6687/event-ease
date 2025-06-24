@@ -2,7 +2,7 @@
 
 A comprehensive event planning platform built with React, TypeScript, and Tailwind CSS. EventEase simplifies the process of organizing various types of events, from weddings and birthdays to corporate seminars and workshops.
 
-[![Deploy to GitHub Pages](https://github.com/nour-6687/event-ease/actions/workflows/deploy.yml/badge.svg)](https://nour-6687.github.io/event-ease/)
+[![EventEase Website](https://github.com/nour-6687/event-ease/actions/workflows/deploy.yml/badge.svg)](https://nour-6687.github.io/event-ease/)
 
 ## 🌟 Features
 
